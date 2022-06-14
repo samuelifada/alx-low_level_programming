@@ -1,1 +1,1 @@
-the dynamc library libdynamic.so containing all the functions listed below:
+The dynamic library libdynamic.so containing all the functions listed below
